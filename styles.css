@@ -1,0 +1,34 @@
+/* add your CSS here */
+
+span {
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+img {
+	margin: 10px 10px 0px 10px;
+
+}
+
+.container {
+	border: 1px solid hsla(0, 0%, 80%, 1);
+	width: 320px;
+	box-shadow: 5px 5px hsla(0, 0%, 93%, 1);
+}
+
+.sub-container {
+	border: 1px solid hsla(0, 0%, 80%, 1);
+	margin: 10px;
+	padding: 10px;
+}
+
+.main-sentence {
+	font-style: italic;
+}
